@@ -1,0 +1,9 @@
+{
+  "name": "YeoPress-Template",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "requirejs": "~2.1.5",
+    "owl.carousel": "^2.2.0"
+  }
+}
